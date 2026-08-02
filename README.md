@@ -5,10 +5,7 @@ Gosto muito de tecnologia, e minha história com ela começa desde criança. Bus
 
 ## Tecnologias
 - Python
-- SQL
-- SQLite3
-- Git
-- 
+  
 ## Projetos
 - Sistema Biblioteca
 - Banco Seguro
